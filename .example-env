@@ -1,0 +1,1 @@
+DATABASE_URL= 'postgresql://greenlit_db_user:YpWM1z3yRuM4ZOT3sMjDHL1Aw3qvf1uw@dpg-cnnjvs779t8c73b76ejg-a.oregon-postgres.render.com:5432/greenlit_db'
